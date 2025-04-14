@@ -1,0 +1,7 @@
+DATASETİ BURAYA YÜKLEMEDİM ONUN YERİNE DATASETİN URL SİNİ BURAYA BIRAKIYORUM:
+ 
+https://drive.google.com/drive/folders/1xMSUIhEX4SSKDrkaZPZtKiC7dclLlUOI?usp=sharing
+
+BURAYA YAZACAĞIM KAGGLE URL SİNİ İNDİRDEİKTEN SONRA SADECE COLON KISMININ DATASETİNİ ÇEKMENİZ GEREKMEKTEDİR. LUNG KISMI BU PROJEDE KULLANILMAMAKTADIR.
+
+https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
